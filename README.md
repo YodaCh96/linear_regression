@@ -19,3 +19,15 @@
 * Berechnen Sie mit der Funktion `fitlm(v4, v6)` eine regressionsgerade. weisen sie das Ergebnis einer Variablen `model` zu. Schauen Sie sich im Workspace diese Variable an insbesonder das Property `Coefficients`. In der Spalte `Estimate` finden wir die berechneten Schätzwerte für die Schnittstelle mit der `y Achse` bei `x = 0` (=Intercept) sowie die Steigung der Geraden (=x1).Zeichen Sie eine Scatterplot mit den Variablen `v4` und `v6`. Zeichnen Sie in demselben Diagramm eine Gerade mit `y = Intercept + x1*x`. Wie passt das?
 * Geben Sie die Variable model in einem Diagramm aus `(plot(model))`.
 * Lesen sie die Datei Geburten_Stoerche.csv ein und berechnen Sie den den Korrellationskoeffizienten sowie ein modell mit `fitlm`. Was ist ihr Kommentar?
+
+## Contributing
+
+This is a personal learning project for me. Please feel free to fork this repo. Pull request to submit more programs.
+
+## Feedback
+
+If you find any bug or have any suggestion, please do file issues. I am graceful for any feedback and will do my best to improve this package.
+
+## License
+
+[MIT](LICENSE) © 2020 Ioannis Christodoulakis
